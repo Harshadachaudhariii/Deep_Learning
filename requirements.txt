@@ -1,0 +1,13 @@
+# Data Analysis and Visualization
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+mlxtend
+
+# Notebook
+jupyter
+ipykernel
